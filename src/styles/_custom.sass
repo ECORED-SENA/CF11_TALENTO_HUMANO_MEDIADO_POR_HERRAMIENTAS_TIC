@@ -1,0 +1,173 @@
+.curso-main-container > .container
+  overflow-x: inherit
+
+///// Utilidades texto
+.txt--mint
+  color: #3CFFE9
+.txt--purpura
+  color: #7F4FC7
+.titulo-sexto.clr--orange
+  border-left-color: #FFA726
+
+.hr--blank
+  width: 100%
+  height: 3px
+  margin: 2rem 0
+
+.pos--relative
+  position: relative
+  
+///// Utilidades imagenes
+.img85
+  width: 85px
+.img100
+  width: 100px
+.img250
+  width: 250px
+.img300
+  max-width: 300px
+.img400
+  max-width: 400px
+.img500
+  max-width: 500px
+.img650
+  max-width: 650px
+
+///// Cards
+.crd
+  position: relative
+  padding: 1.5rem
+.crd--brad
+    border-radius: 15px
+.crd--gris
+  background-color: #F6F6F6
+.crd--amarillo
+  background-color: #FFFAD8
+.crd--gradient_01
+  height: 100%
+  background: linear-gradient(0deg, rgba(126,83,197,1) 0%, rgba(8,3,131,1) 50%)
+
+.avatarCrd
+  position: relative
+  padding: 1.2rem
+  border-radius: 15px
+  padding-right: 45px
+  margin-right: 15px
+  &--icon
+    position: absolute
+    right: -35px 
+    top: 50%
+    transform: translateY(-50%)
+    width: 70px
+    height: 70px
+    background-image: url("../assets/curso/icon.svg")
+    background-size: contain  
+
+.cajon
+  padding: 1.5rem
+.cjn--purpura
+  background-color: #EDE7F7
+  &::before
+    background-color: #7F4FC7
+
+///// negative margis
+.negM--left
+  position: relative
+  margin-left: -8rem
+  @media (max-width: 1000px)
+    margin-left: 0
+
+///// Float elements
+.dots--btmRight
+  position: absolute
+  bottom: 7%
+  right: 3%
+  width: 87px
+  height: 22px  
+  background-image: url("../assets/curso/dots_01.svg")
+  background-repeat: no-repeat
+  background-size: contain
+  @media (max-width: 1000px)
+    display: none
+
+///// Custom bg
+.bg--blue
+  padding: 0.1rem 0.12rem
+  background-color: #DDEDF8
+.bg--gris
+  position: relative
+  padding: 2rem
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 100%        
+    background-color: #F6F6F6
+
+.bg--gradient_blue_01
+  position: relative   
+  & > *
+    position: relative
+    z-index: 2
+  &::before
+    content: ''
+    position: absolute    
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 100%        
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(235,246,255,1) 55%)
+  &::after
+    content: ''
+    position: absolute    
+    top: 0
+    left: -3rem    
+    width: calc(100% + 6rem)
+    height: 12%       
+    background-color: white
+    z-index: 0
+  @media (max-width: 1000px)
+    &::after
+      height: 5%
+      
+
+///// Custom Table
+
+.cst--table_01
+  table
+    thead
+      border-color: #FFA726
+      background-color: #12263F 
+      th
+        color: white !important
+        font-size: 1em
+
+.cst--cell_gray
+  background-color: #f3f3f3
+
+///// Custom tabs C
+
+.tabs-c.color-acento-contenido .tabs-c__tab--active
+  span 
+    color: #7F4FC7 !important
+    font-weight: 700
+.tabs-c__content-item
+  padding: 2rem
+  background-color: #F6F6F6
+  background-image: url("../assets/curso/tabs_bg.svg")
+  background-position: right bottom
+  background-size: cover
+
+.tabs-c__header
+  margin-bottom: 0
+.tabs-c__tab
+  border-bottom: 4px solid #AFAFAF
+
+
+
+
+
