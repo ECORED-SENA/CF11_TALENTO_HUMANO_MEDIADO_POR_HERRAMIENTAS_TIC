@@ -1,14 +1,29 @@
-<svg id="Grupo_154400" data-name="Grupo 154400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1240" height="348" viewBox="0 0 1240 348">
-  <defs>
-    <clipPath id="clip-path">
-      <rect id="Rectángulo_35928" data-name="Rectángulo 35928" width="1240" height="348" fill="#f6f6f6" stroke="#e8e8e8" stroke-width="1"/>
-    </clipPath>
-  </defs>
-  <g id="Rectángulo_35926" data-name="Rectángulo 35926" transform="translate(0 0)" fill="#f6f6f6" stroke="#e8e8e8" stroke-width="1">
-    <rect width="1240" height="348" stroke="none"/>
-    <rect x="0.5" y="0.5" width="1239" height="347" fill="none"/>
-  </g>
-  <g id="Enmascarar_grupo_111" data-name="Enmascarar grupo 111" transform="translate(0 0)" clip-path="url(#clip-path)">
-    <path id="Trazado_126929" data-name="Trazado 126929" d="M2858,2007.264c-144.76,0-262.531-116.539-262.531-259.778S2713.243,1487.7,2858,1487.7s262.53,116.541,262.53,259.784S3002.764,2007.264,2858,2007.264Zm0-396.89c-76.4,0-138.561,61.509-138.561,137.112s62.158,137.1,138.561,137.1,138.557-61.506,138.557-137.1S2934.406,1610.374,2858,1610.374Z" transform="translate(-1685.487 -1382.701)" fill="#dbf0ff"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Grupo_154400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1240 348" style="enable-background:new 0 0 1240 348;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F6F6F6;}
+	.st1{fill:none;stroke:#E8E8E8;}
+	.st2{clip-path:url(#SVGID_00000129174162243001083650000017348767321460052158_);}
+	.st3{fill:#DBF0FF;}
+</style>
+<g id="Rectángulo_35926" transform="translate(0 0)">
+	<rect class="st0" width="1240" height="348"/>
+	<rect x="0.5" y="0.5" class="st1" width="1239" height="347"/>
+</g>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="1240" height="348"/>
+	</defs>
+	<clipPath id="SVGID_00000032625987394120682060000011144511074994201761_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	
+		<g id="Enmascarar_grupo_111" transform="translate(0 0)" style="clip-path:url(#SVGID_00000032625987394120682060000011144511074994201761_);">
+		<path id="Trazado_126929" class="st3" d="M67.5,624.6C212.2,624.6,330,508,330,364.8S212.2,105,67.5,105S-195,221.5-195,364.8
+			S-77.3,624.6,67.5,624.6z M67.5,227.7c76.4,0,138.6,61.5,138.6,137.1S143.9,501.9,67.5,501.9S-71.1,440.4-71.1,364.8
+			S-8.9,227.7,67.5,227.7z"/>
+	</g>
+</g>
 </svg>

@@ -196,6 +196,7 @@
         .avatarCrd.crd--amarillo
           p.mb-0 Para ampliar la información, se invita a leer la #[span.bg--blue Norma ISO 9002/2007], la cual se encuentra en el material complementario.
           .avatarCrd--icon
+          
       .col-lg-6
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema1/t1_13.png", alt="alt").m-auto
@@ -215,7 +216,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3 Caracterización de los procesos
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-lg-7
         p Para construir esta caracterización es necesario conocer los procesos de la organización y haber hecho el levantamiento del mapa de proceso.
         .row.justify-content-center.mb-4
@@ -227,16 +228,66 @@
               p.mb-0 La caracterización es un documento y una herramienta de planificación, porque permite identificar, entre otros aspectos, la misión del proceso, responsables, riesgos, recursos, etc. A través de ella se detalla la información que se utiliza dentro del proceso, por lo que se hace un análisis profundo de cada uno de ellos. 
         p.mb-0 Tal como se mencionó, al estudiar un proceso y el mapa de proceso, estos inician con una necesidad del cliente y finaliza con un producto o un servicio que satisfaga esa necesidad del cliente. Estos elementos son los que se identifican en una caracterización.
       .col-lg-5
-        figure
+        figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema1/t1_15.png", alt="alt")
 
+    p.text-center Al caracterizar un proceso se deben identificar:
 
+    .bg--img_01
+      .row.justify-content-center
+        .col-lg-10
+          SlyderF.mb-5(columnas="col-lg-6 col-xl-4")
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema1/t1_16.svg' alt='').img100.m-auto     
+              p.text-center.mb-0 Qué se persigue en un determinado proceso.
 
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema1/t1_17.svg' alt='').img100.m-auto     
+              p.text-center.mb-0 Cómo inicia y termina.
 
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema1/t1_18.svg' alt='').img100.m-auto     
+              p.text-center.mb-0 Quiénes son los responsables.
 
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema1/t1_19.svg' alt='').img100.m-auto     
+              p.text-center.mb-0 Cuáles serán los controles y registros que deben implementarse. 
 
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema1/t1_20.svg' alt='').img100.m-auto     
+              p.text-center.mb-0 Construir indicadores. 
 
+            .tarjeta.tarjeta--slyder.p-4
+              .row.justify-content-center.mb-3
+                .col-8
+                  img(src='@/assets/curso/tema1/t1_21.svg' alt='').img100.m-auto     
+              p.text-center.mb-0 Especificar los riesgos a los que está expuesta la organización si no cumple con lo planificado.
 
+      .row.justify-content-center.mb-5
+        .col-auto
+          figure
+            img(src="@/assets/curso/square_03.svg", alt="alt").img85.m-auto
+        .col
+          p De lo anterior, es vital rescatar los controles y registros que a través de la caracterización se han identificado, por comprometer la documentación que se debe generar dentro del proceso y asegurar con estos, que este no solo se lleve a cabo correctamente, sino que exista una trazabilidad del mismo. 
+          p.mb-0 La caracterización de proceso sirve para identificar y definir el proceso de forma detallada, a través de las actividades; es decir, los procedimientos que componen el proceso. La tabla 2 es un ejemplo de la información que se debe incluir en una caracterización.
+
+      .row.justify-content-center.mb-5
+        .col-lg-8
+          .titulo-sexto.clr--orange
+            h5 Tabla 2.
+            span Ficha caracterización de proceso
+          figure(data-aos="zoom-in")
+            img(src="@/assets/curso/tema1/t1_22.svg", alt="alt")
 
     
   

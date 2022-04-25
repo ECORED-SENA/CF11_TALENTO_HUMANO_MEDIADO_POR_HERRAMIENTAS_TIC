@@ -3,19 +3,18 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    .row.justify-content-center.mb-5
+      .col-auto
+        figure
+          img(src="@/assets/curso/square.svg", alt="alt").img85
+      .col
+        p.mb-0 La preselección del talento humano mediante herramientas tecnológicas ha cambiado muchos procesos al interior de las empresas, por lo que estas han debido incorporar herramientas que les permitan realizar procesos de selección más rápidos y transparentes, lo que también ha marcado un hito en la gestión de la información digital o la documentación en los departamentos de recursos humanos. 
 
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-10
         figure
           img(src="@/assets/curso/sintesis.svg", alt="alt")
-      .col-auto
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p Anexo. Síntesis
+      
 
 </template>
 
