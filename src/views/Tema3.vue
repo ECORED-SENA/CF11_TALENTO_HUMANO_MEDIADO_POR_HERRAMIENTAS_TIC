@@ -10,9 +10,9 @@
 
     .crd.crd--gradient_02.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-7
+        .col-lg-7.mb-5.mb-lg-0
           .row.justify-content-center  
-            .col-auto
+            .col-auto.d-none.d-lg-flex
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/square_06.svg", alt="alt").img85.m-auto
             .col
@@ -58,7 +58,7 @@
                 p.mb-0 Proporciona directrices para verificar la capacidad del sistema para conseguir objetivos de la calidad definidos. Esta norma se puede utilizar internamente para auditar a los proveedores de la organización.
             
       .row.justify-content-center.mb-4
-        .col-auto       
+        .col-auto.d-none.d-lg-flex      
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/square_07.svg", alt="alt").img85
         .col
@@ -131,7 +131,7 @@
         p Además, tiene en cuenta los aspectos generales de las comunicaciones y presenta un orden para las partes de cada tipo de documento, con base en el estilo y presentación que demandan los protocolos organizacionales, que se establece en los manuales de procedimiento de cada organización para la producción de documentos.
         p Esta guía es de vital para el control de la imagen de la empresa, por lo que en el caso de organizaciones grandes es muy importante llevar este tipo de documentos; a continuación, se presenta un ejemplo de una entidad del Estado
 
-        .tarjeta.color-primario.p-3.mb-5
+        .tarjeta.cta--gradient.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-auto
               img(src="@/assets/componentes/download.svg").img75

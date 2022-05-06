@@ -83,7 +83,7 @@
           img(src="@/assets/curso/tema1/t1_04.svg", alt="alt").m-auto
 
     .row.justify-content-center.mb-5
-      .col-auto
+      .col-auto.d-none.d-lg-flex
         figure
           img(src="@/assets/curso/square.svg", alt="alt").img85.m-auto
       .col
@@ -170,7 +170,7 @@
       h2 1.2 Clasificación de procesos
 
     .row.justify-content-center.mb-4
-      .col-lg-5
+      .col-lg-5.mb-5.mb-lg-0
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema1/t1_12.png", alt="alt").img500.m-auto
       .col-lg-7
@@ -182,7 +182,7 @@
           p.mb-0 El mapa de proceso es una representación gráfica de todos los procesos que hacen parte de la empresa, los cuales se relacionan coherentemente teniendo en cuenta los ciclos que maneja cada organización dependiendo de su razón de ser, esta relación parte de la necesidad del cliente y termina en la satisfacción del mismo ya sea al entregar un producto o un servicio. Este es, entonces, el resumen de toda la actividad en la empresa.
 
     .row.justify-content-center.mb-4      
-      .col-lg-6
+      .col-lg-6.mb-4.mb-lg-0
         p El mapa de procesos es uno de los elementos fundamentales para dar cumplimiento a los siguientes aspectos de la ISO 9001: en el numeral 4.4.1 de la norma que especifica que la organización debe acordar los procesos necesarios para el Sistema de Gestión de la Calidad y su aplicación a través de la organización, y debe:
 
         ol.lista-ol
@@ -220,13 +220,14 @@
       .col-lg-7
         p Para construir esta caracterización es necesario conocer los procesos de la organización y haber hecho el levantamiento del mapa de proceso.
         .row.justify-content-center.mb-4
-          .col-auto
+          .col-auto.d-none.d-lg-flex
             figure
               img(src="@/assets/curso/square_02.svg", alt="alt").img85
           .col
             .cajon.cjn--purpura
               p.mb-0 La caracterización es un documento y una herramienta de planificación, porque permite identificar, entre otros aspectos, la misión del proceso, responsables, riesgos, recursos, etc. A través de ella se detalla la información que se utiliza dentro del proceso, por lo que se hace un análisis profundo de cada uno de ellos. 
-        p.mb-0 Tal como se mencionó, al estudiar un proceso y el mapa de proceso, estos inician con una necesidad del cliente y finaliza con un producto o un servicio que satisfaga esa necesidad del cliente. Estos elementos son los que se identifican en una caracterización.
+
+        p.mb-5 Tal como se mencionó, al estudiar un proceso y el mapa de proceso, estos inician con una necesidad del cliente y finaliza con un producto o un servicio que satisfaga esa necesidad del cliente. Estos elementos son los que se identifican en una caracterización.
       .col-lg-5
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema1/t1_15.png", alt="alt")
@@ -274,7 +275,7 @@
               p.text-center.mb-0 Especificar los riesgos a los que está expuesta la organización si no cumple con lo planificado.
 
       .row.justify-content-center.mb-5
-        .col-auto
+        .col-auto.d-none.d-lg-flex
           figure
             img(src="@/assets/curso/square_03.svg", alt="alt").img85.m-auto
         .col

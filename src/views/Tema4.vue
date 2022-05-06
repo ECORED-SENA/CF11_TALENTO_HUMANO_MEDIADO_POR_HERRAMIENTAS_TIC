@@ -10,9 +10,9 @@
 
     .crd.crd--gradient_02.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-7
+        .col-lg-7.mb-5.mb-lg-0
           .row.justify-content-center  
-            .col-auto
+            .col-auto.d-none.d-lg-flex
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/square_06.svg", alt="alt").img85.m-auto
             .col
@@ -24,8 +24,8 @@
     #t_4_1.titulo-segundo.color-acento-contenido
       h2 4.1 Control de la información documentada (GTC ISO 10013)
 
-    .row.justify-content-center.mb-5
-      .col-lg-5
+    .row.justify-content-center.mb-4
+      .col-lg-5.mb-4.mb-lg-0
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema4/t4_02.png", alt="alt").img500.m-auto
       .col-lg-7
@@ -46,7 +46,7 @@
             | Los documentos están organizados y seguros.
 
         .row.justify-content-center
-          .col-auto
+          .col-auto.d-none.d-lg-flex
             figure(data-aos="zoom-in")
               img(src="@/assets/curso/square_07.svg", alt="alt").img85
           .col
@@ -68,11 +68,11 @@
       h2 4.2 Ciclo vital y Tablas de Retención Documental (TRD)
 
     .bg--img_04
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-4
         .col-lg-6
           p Estas tablas son un listado de series, con sus correspondientes subseries y tipos documentales, producto del desarrollo de las funciones de cada oficina o unidad administrativa a las cuales se asigna el tiempo de permanencia en cada etapa del ciclo vital de los documentos y se explica el procedimiento a seguir para la selección y la reproducción de la documentación (reprografía). 
           p Por otro lado, la retención es el plazo, en términos de tiempo, son los documentos deben permanecer en el archivo de gestión o en el archivo central una vez finalizado su trámite. Partiendo de lo anterior, la administración se verá beneficiada con la elaboración de las tablas de retención, porque estas:
-        .col-lg-6
+        .col-lg-6.d-none.d-lg-flex
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/tema4/t4_04.png", alt="alt").m-auto
 
@@ -171,7 +171,7 @@
       h2 4.3 Archivo de la documentación
 
     .row.justify-content-center.mb-3
-      .col-auto
+      .col-auto.d-none.d-lg-flex
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/square_05.svg", alt="alt").img85.m-auto
       .col  
@@ -219,11 +219,12 @@
       h2 4.4 Expediente laboral
 
     .row.justify-content-center.mb-5
-      .col-lg-7
+      .col-lg-7.mb-4.mb-lg-0
         p La dinámica y situación actual del mundo, ha llevado a la renovación ágil de las organizaciones, afectando de manera directa el área de talento humano, al tener que afrontar situaciones como el incremento en el recibo de hojas de vida y la modalidad de trabajo en casa, lo que ha significado más trabajadores dispersos en el mundo, etc. 
         p Lo anterior implica un gran reto en la gestión y en el manejo y control de la información relacionada con el área, responsabilidad que se debe manejar de manera segura y ágil, teniendo en cuenta las normas legales y todas las regulación que deben cumplirse.
         .crd.crd--amarillo.mb-4
           p.mb-0 Los profesionales de talento humano deben gestionar información personal de los empleados y los posibles aspirantes a participar dentro de un proceso de selección en la organización. Desde la publicación de la oferta de trabajo hasta contratación y despido del trabajador, teniendo muy en cuenta todas las leyes y normas que rigen el manejo de datos y confidencialidad de la misma (Ley 1581 de 2012).
+
         p.mb-0 En este sentido se requiere de la implementación de un sistema que permita de registros que puedan ser accesibles, que se identifique cuáles son los documentos que deben ser guardados y el periodo en que deben permanecer en este estado. Esto significa garantizar el salvaguardar la información teniendo los controles sobre quiénes, de qué manera y a qué documentos pueden acceder, resguardando la trazabilidad para tener información de las personas que utilizaron el documento y la fecha en que fue utilizado.
 
       .col-lg-5
@@ -231,12 +232,12 @@
           img(src="@/assets/curso/tema4/t4_22.png", alt="alt").img500.m-auto
 
     .row.justify-content-center
-      .col-lg-5
+      .col-lg-5.d-none.mb-lg-0
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema4/t4_23.png", alt="alt").img500.m-auto
       .col-lg-7
         .row.justify-content-center.mb-4
-          .col-auto
+          .col-auto.d-none.d-lg-flex
             figure
               img(src="@/assets/curso/square.svg", alt="alt").img85
           .col

@@ -10,9 +10,9 @@
 
     .crd.crd--gradient_02.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-7
+        .col-lg-7.mb-5.mb-lg-0
           .row.justify-content-center  
-            .col-auto
+            .col-auto.d-none.d-lg-flex
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/square_03.svg", alt="alt").img85.m-auto
             .col
@@ -69,7 +69,7 @@
         p La organización es libre de adaptar la estructura documental que necesita teniendo en cuenta su realidad y exigencias.
         p Al seguir estudiando la Norma ISO 9001:2005, esta especifica en el numeral 7.5.3.2: la información documentada de origen externo que la organización determine como necesaria para la planificación y operación del sistema de gestión de calidad, se identifique, según el caso y decida cómo deberá ser controlada.
         .row.justify-content-center
-          .col-auto
+          .col-auto.d-none.d-lg-flex
             figure(data-aos="zoom-in")
               img(src="@/assets/curso/square_02.svg", alt="alt").img85
           .col
@@ -142,7 +142,7 @@
           h3.cstmH3--blue El flujograma o diagrama de flujo
           p Esta herramienta es fundamental para precisar un proceso. Es una representación gráfica de las actividades de un proceso o algoritmo informático que permiten identificar el paso a paso de la misma en una sola vista; se puede utilizar para documentar, comunicar, estudiar y hacer más fácil y clara la información que se pretende compartir. 
           .row.justify-content-center.mb-4
-            .col-auto
+            .col-auto.d-none.d-lg-flex
               figure(data-aos="zoom-in")
                 img(src="@/assets/curso/square_02.svg", alt="alt").img85
             .col
@@ -215,7 +215,7 @@
       h2 2.4 Estructura documental del proceso de preselección
 
     .row.justify-content-cente.mb-4
-      .col-auto
+      .col-auto.d-none.d-lg-flex
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/square_05.svg", alt="alt").img85
       .col
@@ -253,22 +253,13 @@
 
           p(numero="12" titulo="Los documentos").mb-0 Formatos de requisición de personal, formato de convocatoria (I-card), formato de recepción hojas de vida, formato de valoración hojas de vida, bases de datos de preseleccionados.
 
-    .row.justify-content-cente
-      .col-auto
+    .row.justify-content-cente.mb-5
+      .col-auto.d-none.d-lg-flex
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/square_02.svg", alt="alt").img65
       .col
         .cajon.cjn--purpura(data-aos="fade-up")
           p.mb-0 Una vez toda la información está analizada y detallada, se puede crear la ficha técnica del proceso, también conocida como “la caracterización del proceso”, por lo que la documentación de estos, al igual que las demás herramientas de gestión, son indispensables para lograr los objetivos estratégicos de la organización. 
-            
-
-
-    
-
-
-
-
-    
 
 </template>
 
