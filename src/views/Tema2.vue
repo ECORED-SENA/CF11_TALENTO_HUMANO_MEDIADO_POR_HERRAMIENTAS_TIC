@@ -31,7 +31,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
 
     .avatarCrd.crd--amarillo
-      p.mb-0 Para ampliar la información, se invita a ver el video Cómo documentar procesos y procedimientos en una empresa Sistema de Calidad ISO 9001, que se encuentra en el material complementario.
+      p.mb-0 Para ampliar la información, se invita a ver el video cómo documentar procesos y procedimientos en una empresa Sistema de Calidad ISO 9001, que se encuentra en el material complementario.
       .avatarCrd--icon
 
     separador
@@ -74,7 +74,7 @@
               img(src="@/assets/curso/square_02.svg", alt="alt").img85
           .col
             .crd.crd--amarillo(data-aos="fade-up")
-              p.mb-0 Para ampliar la información, se sugiere leer el documento Directrices para la documentación del sistema de gestión de la calidad (numeral 4.5, estructura y formato, instrucciones de trabajo, formularios, plan de calidad, especificaciones), que se encuentra en el material complementario.
+              p.mb-0 Para ampliar la información, se sugiere leer el documento directrices para la documentación del sistema de gestión de la calidad (numeral 4.5, estructura y formato, instrucciones de trabajo, formularios, plan de calidad, especificaciones), que se encuentra en el material complementario.
       .col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0
         figure(data-aos="zoom-in")
           img(src="@/assets/curso/tema2/t2_04.png", alt="alt").img400.m-auto
@@ -88,7 +88,7 @@
             img(src="@/assets/curso/tema2/t2_05.png", alt="alt").m-auto
         .col-lg-7
           LineaTiempoD.color-primario
-            p(numero="1" titulo="Encabezado").mb-0 Nombre del documento y tipo de proceso.<br><br>Área a la que pertenece el documento.<br><br>Codificación (Fecha elaboración, fecha de modificación, versión, número de páginas).
+            p(numero="1" titulo="Encabezado").mb-0 Nombre del documento y tipo de proceso.<br><br>Área a la que pertenece el documento.<br><br>Codificación (fecha elaboración, fecha de modificación, versión, número de páginas).
 
             p(numero="2" titulo="Información general").mb-0 Datos del proceso: nombre del proceso, tipo de proceso, responsable del proceso, objetivo del proceso, Alcance (ámbito de aplicación del procedimiento), actividades.<br><br>Descripción del proceso.
 
@@ -100,7 +100,7 @@
 
             p(numero="6" titulo="Nomogramas").mb-0 Especificar todas las normas que se han tenido en cuenta en la implementación del proceso.
 
-            p(numero="7" titulo="Ejecutor de cada actividad y aprobaciones").mb-0 Ejecutor de cada actividad y aprobaciones (quién elaboró, revisó, aprobó) 
+            p(numero="7" titulo="Ejecutor de cada actividad y aprobaciones").mb-0 Ejecutor de cada actividad y aprobaciones (quién elaboró, revisó, aprobó).
 
             p(numero="8" titulo="Seguimiento al documento").mb-0 Seguimiento al documento (versión, fecha de aprobación, Ítem modificado, motivo, aprobado por). 
 
@@ -117,7 +117,7 @@
           p La necesidad de organizar la información se ha convertido en un elemento clave para las organizaciones, para esto lo primero es llevar a cabo la digitalización de los documentos, el siguiente paso es centralizar la información, de tal forma que se tenga acceso fácil de la organización, convirtiendo el flujo de trabajo en procesos más eficientes; el tercer aspecto es la seguridad de la información, con la digitalización de estos el riesgo de pérdida disminuye, la organización está segura de contar con una base de datos en un solo sistema.
 
           .avatarCrd.crd--amarillo
-            p.mb-0 Se invita a ver el video Documentar procesos de tu empresa, el cual se encuentra en el material complementario y a través del cual se podrán conocer algunas de las herramientas utilizadas en la documentación de procesos.
+            p.mb-0 Se invita a ver el video documentar procesos de tu empresa, el cual se encuentra en el material complementario y a través del cual se podrán conocer algunas de las herramientas utilizadas en la documentación de procesos.
             .avatarCrd--icon         
 
         .col-lg-5
@@ -129,12 +129,12 @@
           figure(data-aos="zoom-in")
             img(src="@/assets/curso/tema2/t2_07.png", alt="alt").img500.m-auto
         .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
-          h3.cstmH3--blue Software de apoyo a la gestión documental
+          h3.cstmH3--blue <i>Software</i> de apoyo a la gestión documental
           p Los sistemas de gestión documental permiten que todos los documentos sean compartidos y que, con los controles debidos, haya acceso a la información en el momento que se requiera a nivel interno y externo, además que en la medida en que se realicen modificaciones por las personas autorizadas se guarden las respectivas versiones del mismo (trazabilidad).
           p Es más, el Ministerio de Trabajo emitió una circular externa, en la que establece que pueden celebrarse contratos de trabajo mediante la firma electrónica o digital. También cabe destacar que lo publicado en dicha circular se aplica del mismo modo a los trabajadores del sector privado.
           p Es así como la utilización de un sistema adecuado de gestión de los documentos es de alta importancia, especialmente porque se requiere de menos gestión manual, generando un sistema de información que permita que los empleados accedan a los documentos que requieren de manera directa y ágil, a través de la intranet (nómina, certificados, contratos, evaluación de desempeño, etc.), impactando de igual forma en los costos.
           .avatarCrd.crd--amarillo
-            p.mb-0 Para profundizar en el aprendizaje sobre legislación y normalización, se sugiere leer el documento #[strong Gestión documental en recursos humanos para pymes], que se encuentra en el material complementario.
+            p.mb-0 Para profundizar en el aprendizaje sobre legislación y normalización, se sugiere leer el documento #[strong gestión documental en recursos humanos para pymes], que se encuentra en el material complementario.
             .avatarCrd--icon
 
       .row.justify-content-center.mb-5        
@@ -196,7 +196,7 @@
           tr
             td 
               img(src="@/assets/curso/tema2/t2_14.svg", alt="alt").img165.m-auto
-            td.text-center L&iacute;nea de flujo
+            td.text-center L&iacute;nea de flujo.
             td Orden de la ejecuci&oacute;n de las actividades.
           tr.cst--cell_gray
             td 

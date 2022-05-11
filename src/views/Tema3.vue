@@ -27,7 +27,7 @@
           img(src="@/assets/curso/tema3/t3_02.svg", alt="alt").img400.m-auto
       .col-lg-8.mb-4.mb-lg-0.order-1.order-lg-2
         h3.cstmH3--blue Familia ISO 9000
-        p Al hablar de Familia ISO 9000 se hace referencia a la serie de normas sobre gestión de la calidad en las organizaciones, promovida por Organización Internacional de Normalización (ISO, en inglés International Organization for Standardization). Su propósito es presentar unos parámetros generales que puedan ajustarse en la mayoría de países en los que se implemente, de tal forma que logre satisfacer los requisitos básicos para que los procesos clave se realicen de forma eficiente y eficaz por parte de la empresa independiente de su tamaño, siendo flexible a la hora de implementarse de acuerdo con las necesidades del cliente. 
+        p Al hablar de Familia ISO 9000 se hace referencia a la serie de normas sobre gestión de la calidad en las organizaciones, promovida por Organización Internacional de Normalización (ISO, en inglés <i>International Organization for Standardization</i>). Su propósito es presentar unos parámetros generales que puedan ajustarse en la mayoría de países en los que se implemente, de tal forma que logre satisfacer los requisitos básicos para que los procesos clave se realicen de forma eficiente y eficaz por parte de la empresa independiente de su tamaño, siendo flexible a la hora de implementarse de acuerdo con las necesidades del cliente. 
         p Esta norma persigue como objetivo que se utilicen los parámetros generales comunes en la mayoría de los países en los que se implemente.
         .cajon.cjn--purpura(data-aos="fade-up")
           p.mb-0 Una de las normas que se pueden mencionar inicialmente es la ISO 9001, la cual es muy genérica, de forma que puede ajustarse a casi cualquier organización con o sin ánimo de lucro. Se diseñó de forma que fuera posible satisfacer los requisitos básicos de una operación que se realice de forma correcta por una empresa de cualquier tipo y tamaño. 
@@ -129,7 +129,7 @@
         h3.cstmH3--blue GTC 185
         p Esta guía presenta las recomendaciones para elaborar los diferentes tipos de documentos generados en las organizaciones con el propósito de proyectar una adecuada imagen corporativa.
         p Además, tiene en cuenta los aspectos generales de las comunicaciones y presenta un orden para las partes de cada tipo de documento, con base en el estilo y presentación que demandan los protocolos organizacionales, que se establece en los manuales de procedimiento de cada organización para la producción de documentos.
-        p Esta guía es de vital para el control de la imagen de la empresa, por lo que en el caso de organizaciones grandes es muy importante llevar este tipo de documentos; a continuación, se presenta un ejemplo de una entidad del Estado
+        p Esta guía es de vital para el control de la imagen de la empresa, por lo que en el caso de organizaciones grandes es muy importante llevar este tipo de documentos; a continuación, se presenta un ejemplo de una entidad del Estado.
 
         .tarjeta.cta--gradient.p-3.mb-5
           .row.justify-content-around.align-items-center

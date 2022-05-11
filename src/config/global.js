@@ -125,7 +125,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -178,7 +178,7 @@ export default {
         'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
     },
     {
-      referencia: 'Ive Consultores. (s. f.). Caracterización de procesos',
+      referencia: 'Ive Consultores. (s. f.). Caracterización de procesos.',
       link: 'https://iveconsultores.com/caracterizacion-de-procesos/',
     },
     {
@@ -188,7 +188,7 @@ export default {
     },
     {
       referencia:
-        'Servicio Nacional de Aprendizaje - SENA. (2005). Manual de procesos y procedimientos. SENA',
+        'Servicio Nacional de Aprendizaje - SENA. (2005). Manual de procesos y procedimientos. SENA.',
       link: 'https://repositorio.sena.edu.co/handle/11404/3672',
     },
     {
@@ -270,12 +270,12 @@ export default {
       descarga: '/downloads/GTC_ISO_10013_DOCUMENTACION_DE_PROCESOS.pdf',
     },
     {
-      texto: 'Osorio, W. (2017). Documentar procesos de tu empresa',
+      texto: 'Osorio, W. (2017). Documentar procesos de tu empresa.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=h1jM4RiojN8',
     },
     {
-      texto: 'ubén. (2021). Gestión documental en Recursos Humanos para Pymes',
+      texto: 'ubén. (2021). Gestión documental en Recursos Humanos para Pymes.',
       tipo: 'Blog',
       link: 'https://factorialhr.es/blog/gestion-documental-recursos-humanos/',
     },

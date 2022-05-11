@@ -246,7 +246,7 @@
         p Todos los documentos laborales deben ser organizados en una carpeta con un orden específico que permita su disponibilidad y auditoría, para ser inventariados, estos, son privados, y custodiados por el área de Talento Humano y con acceso a ellos solo por parte del trabajador.
 
         .avatarCrd.crd--amarillo
-          p.mb-0 Para ampliar la información, se invita a descargar el documento Organización de historias laborales, donde se encontrarán todas las especificaciones que se deben tener en cuenta al momento de organizar todos los documentos de un trabajador.
+          p.mb-0 Para ampliar la información, se invita a descargar el documento organización de historias laborales, donde se encontrarán todas las especificaciones que se deben tener en cuenta al momento de organizar todos los documentos de un trabajador.
           .avatarCrd--icon
 
 
