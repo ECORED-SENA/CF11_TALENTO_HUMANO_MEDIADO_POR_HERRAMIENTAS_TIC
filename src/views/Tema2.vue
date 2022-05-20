@@ -28,7 +28,7 @@
 
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)  
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2gkrp4ZyDqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)         
 
     .avatarCrd.crd--amarillo
       p.mb-0 Para ampliar la información, se invita a ver el video cómo documentar procesos y procedimientos en una empresa Sistema de Calidad ISO 9001, que se encuentra en el material complementario.
