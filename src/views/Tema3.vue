@@ -90,7 +90,7 @@
         .col-auto.mb-4
           .crd.crd--cyan.crd--brad
             h4 ISO 9002 Guía de implementación  
-            a.anexo.mb-4(:href="obtenerLink('/downloads/2200-Texto del articulo-4504-1-10-20110830.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/2200_Articulo_4504_1_10_20110830.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto

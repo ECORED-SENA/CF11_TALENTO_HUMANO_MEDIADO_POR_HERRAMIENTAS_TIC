@@ -167,7 +167,7 @@
     separador
 
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2 Clasificación de procesos
+      h2 1.2 Mapa de procesos
 
     .row.justify-content-center.mb-4
       .col-lg-5.mb-5.mb-lg-0

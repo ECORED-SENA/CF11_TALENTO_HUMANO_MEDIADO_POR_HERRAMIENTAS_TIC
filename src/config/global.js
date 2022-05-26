@@ -178,7 +178,8 @@ export default {
         'https://colaboracion.dnp.gov.co/CDT/Normograma/NORMA%20ISO%209001%202015.pdf',
     },
     {
-      referencia: 'Ive Consultores. (s. f.). Caracterización de procesos.',
+      referencia:
+        'Ive Consultores. (s. f.). Cómo hacer una Caracterización de Procesos paso a paso.',
       link: 'https://iveconsultores.com/caracterizacion-de-procesos/',
     },
     {
@@ -275,7 +276,8 @@ export default {
       link: 'https://www.youtube.com/watch?v=h1jM4RiojN8',
     },
     {
-      texto: 'ubén. (2021). Gestión documental en Recursos Humanos para Pymes.',
+      texto:
+        'Rubén. (2021). Gestión documental en Recursos Humanos para Pymes.',
       tipo: 'Blog',
       link: 'https://factorialhr.es/blog/gestion-documental-recursos-humanos/',
     },

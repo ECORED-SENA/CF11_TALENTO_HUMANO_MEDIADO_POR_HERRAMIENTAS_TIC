@@ -221,7 +221,7 @@
     .row.justify-content-center.mb-5
       .col-lg-7.mb-4.mb-lg-0
         p La dinámica y situación actual del mundo, ha llevado a la renovación ágil de las organizaciones, afectando de manera directa el área de talento humano, al tener que afrontar situaciones como el incremento en el recibo de hojas de vida y la modalidad de trabajo en casa, lo que ha significado más trabajadores dispersos en el mundo, etc. 
-        p Lo anterior implica un gran reto en la gestión y en el manejo y control de la información relacionada con el área, responsabilidad que se debe manejar de manera segura y ágil, teniendo en cuenta las normas legales y todas las regulación que deben cumplirse.
+        p Lo anterior implica un gran reto en la gestión y en el manejo y control de la información relacionada con el área, responsabilidad que se debe manejar de manera segura y ágil, teniendo en cuenta las normas legales y todas las regulaciones que deben cumplirse.
         .crd.crd--amarillo.mb-4
           p.mb-0 Los profesionales de talento humano deben gestionar información personal de los empleados y los posibles aspirantes a participar dentro de un proceso de selección en la organización. Desde la publicación de la oferta de trabajo hasta contratación y despido del trabajador, teniendo muy en cuenta todas las leyes y normas que rigen el manejo de datos y confidencialidad de la misma (Ley 1581 de 2012).
 
