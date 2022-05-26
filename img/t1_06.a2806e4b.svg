@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97" height="89.008" viewBox="0 0 97 89.008">
+  <defs>
+    <filter id="Trazado_196175" x="14.5" y="0" width="67.2" height="77.008" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_153294" data-name="Grupo 153294" transform="translate(-594.5 -2671.992)">
+    <g transform="matrix(1, 0, 0, 1, 594.5, 2671.99)" filter="url(#Trazado_196175)">
+      <path id="Trazado_196175-2" data-name="Trazado 196175" d="M24.6,0H10.942V-23.749H-10.9V0H-24.6V-59.008h13.7v24.722H10.942V-59.008H24.6Z" transform="translate(48.1 65.01)" fill="#fff"/>
+    </g>
+    <line id="Línea_1806" data-name="Línea 1806" x2="97" transform="translate(594.5 2760.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="6"/>
+    <g id="Grupo_153192" data-name="Grupo 153192" transform="translate(773.146 2737) rotate(180)">
+      <rect id="Rectángulo_45221" data-name="Rectángulo 45221" width="2.789" height="2.789" transform="translate(106.677 11.853)" fill="#1894f6"/>
+      <rect id="Rectángulo_45222" data-name="Rectángulo 45222" width="2.789" height="2.789" transform="translate(100.751 11.853)" fill="#1894f6"/>
+      <rect id="Rectángulo_45223" data-name="Rectángulo 45223" width="2.789" height="2.789" transform="translate(94.825 11.853)" fill="#1894f6"/>
+      <rect id="Rectángulo_45232" data-name="Rectángulo 45232" width="2.789" height="2.789" transform="translate(106.677 5.926)" fill="#1894f6"/>
+      <rect id="Rectángulo_45233" data-name="Rectángulo 45233" width="2.789" height="2.789" transform="translate(100.751 5.926)" fill="#1894f6"/>
+      <rect id="Rectángulo_45234" data-name="Rectángulo 45234" width="2.789" height="2.789" transform="translate(94.825 5.926)" fill="#1894f6"/>
+      <rect id="Rectángulo_45243" data-name="Rectángulo 45243" width="2.789" height="2.789" transform="translate(106.677)" fill="#1894f6"/>
+      <rect id="Rectángulo_45244" data-name="Rectángulo 45244" width="2.789" height="2.789" transform="translate(100.751)" fill="#1894f6"/>
+      <rect id="Rectángulo_45245" data-name="Rectángulo 45245" width="2.789" height="2.789" transform="translate(94.825)" fill="#1894f6"/>
+    </g>
+  </g>
+</svg>

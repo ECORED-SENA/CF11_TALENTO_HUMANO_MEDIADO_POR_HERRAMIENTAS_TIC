@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Grupo_153298" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1328 1055.4" style="enable-background:new 0 0 1328 1055.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.2;fill:url(#Trazado_184213_00000150081277644661677200000002017198599657263795_);enable-background:new    ;}
+	
+		.st1{opacity:6.100000e-02;fill:url(#Trazado_184214_00000039840685423452789350000000243557378739790977_);enable-background:new    ;}
+</style>
+<linearGradient id="Trazado_184213_00000008850903247451417590000016190038564940378000_" gradientUnits="userSpaceOnUse" x1="358.2304" y1="995.0678" x2="358.2304" y2="996.0678" gradientTransform="matrix(1328 0 0 -870.3766 -475066 867099.125)">
+	<stop  offset="0" style="stop-color:#DEDEDE;stop-opacity:0.2"/>
+	<stop  offset="0.517" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#AFAFAF"/>
+</linearGradient>
+<path id="Trazado_184213" style="opacity:0.2;fill:url(#Trazado_184213_00000008850903247451417590000016190038564940378000_);enable-background:new    ;" d="
+	M345.5,248.3c181,124,380.6,195.3,582.5,109.6c400.5-170,400.1-132.4,400.1-132.4v789.9H0V151.7C0,151.7,139.4,107.1,345.5,248.3z"
+	/>
+<linearGradient id="Trazado_184214_00000039836526871752735620000016929039445295784077_" gradientUnits="userSpaceOnUse" x1="358.2304" y1="995.0683" x2="358.2304" y2="996.0683" gradientTransform="matrix(1328 0 0 -863.7059 -475066 860501.75)">
+	<stop  offset="0" style="stop-color:#DEDEDE;stop-opacity:0.2"/>
+	<stop  offset="0.517" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#12263F"/>
+</linearGradient>
+<path id="Trazado_184214" style="opacity:6.100000e-02;fill:url(#Trazado_184214_00000039836526871752735620000016929039445295784077_);enable-background:new    ;" d="
+	M927.9,397.9c400.5-170,400.1-132.4,400.1-132.4v789.9H0V191.7C0,191.7,726,483.6,927.9,397.9z"/>
+</svg>
